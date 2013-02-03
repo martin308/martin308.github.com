@@ -10,7 +10,7 @@ I have recently been using [Backbone.Marionette](http://marionettejs.com/) in an
 
 <!--more-->
 
-I am going to assume that you have a fairly good idea about javascript, backbone and marionette. If you don't I recommend reading up on all them beforehand!
+I am going to assume that you have a fairly good idea about javascript, backbone and marionette. If you don't I recommend reading up on all of them beforehand!
 
 The intial approach I took was to use module initializers inside every module to add their layouts/views etc to the applications region. This is demonstrated below.
 
