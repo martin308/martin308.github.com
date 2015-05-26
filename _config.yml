@@ -14,3 +14,5 @@ github_username:  martin308
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title/
+
+google_analytics: UA-2950924-5
