@@ -7,7 +7,9 @@ layout: default
     <section class="post">
         <header class="post-header">
 
-            <h2 class="post-title">{{ post.title }}</h2>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <h2 class="post-title">{{ post.title }}</h2>
+            </a>
 
             <p class="post-meta">
                 posted on {{ post.date | date: "%b %-d, %Y" }}
