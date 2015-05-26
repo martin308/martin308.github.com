@@ -7,5 +7,8 @@ $spacing-unit:     30px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "pure",
+        "grids-responsive",
+        "blog",
         "syntax-highlighting"
 ;
