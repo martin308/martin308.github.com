@@ -47,7 +47,7 @@ The weakness of this approach is when you want/need to use one of your modules s
 
 The approach I have begun to take now is demonstrated below.
 
-{% highlight javascript %}
+{% highlight javascript linenos %}
 var MyApp = new Backbone.Marionette.Application();
 
 MyApp.addRegions({
