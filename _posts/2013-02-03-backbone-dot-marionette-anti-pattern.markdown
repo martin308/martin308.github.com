@@ -14,7 +14,7 @@ I am going to assume that you have a fairly good idea about javascript, backbone
 
 The intial approach I took was to use module initializers inside every module to add their layouts/views etc to the applications region. This is demonstrated below.
 
-{% highlight javascript %}
+{% highlight javascript linenos %}
 var MyApp = new Backbone.Marionette.Application();
 
 MyApp.addRegions({
