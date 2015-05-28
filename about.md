@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a developer from Wellington, New Zealand. Currently working at [Mindscape](http://www.mindscapehq.com) on an awesome new product for tracking errors in your application [Raygun.io](http://raygun.io). My main languages of choice are C# and JavaScript, although I love exposing my self to a wide range of languages.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Outside of work I love going Skiing and Snowboarding as much as I can, I also enjoy doing Judo, Taekwondo and weight training.
