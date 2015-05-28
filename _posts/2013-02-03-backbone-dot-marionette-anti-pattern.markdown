@@ -2,8 +2,6 @@
 layout: post
 title: "Backbone.Marionette Module Anti Pattern"
 date: 2013-02-03 16:44
-comments: true
-tags: [coding, backbone, backbone-marionette, javascript]
 ---
 
 I have recently been using [Backbone.Marionette](http://marionettejs.com/) in anger while building [Raygun.io](http://raygun.io). I was struggling to find posts on how to use modules correctly. So of course I ended up using them poorly and have since discovered a better way to use them. I am going to show both the first way that I used Marionette and the new way that I have moved to after discovering the weaknesses in my first approach.

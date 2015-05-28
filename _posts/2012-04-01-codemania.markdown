@@ -2,8 +2,6 @@
 layout: post
 title: "Codemania!"
 date: 2012-04-01 15:06
-comments: true
-tags: [coding, conference] 
 ---
 
 Over the weekend I attended a new conference up in Auckland organised by two stellar dudes

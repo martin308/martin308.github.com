@@ -2,8 +2,6 @@
 layout: post
 title: "Global Day of Code Retreat 2012"
 date: 2012-12-09 15:42
-comments: true
-tags: [coding, coderetreat]
 ---
 
 Yesterday [Amy](http://amy.palamounta.in) and I hosted and facilitated the Wellington [code retreat](http://coderetreat.org/) as part of the [global day of code retreat](http://globalday.coderetreat.org/). The day went well and we got a full house of developers to practice coding. We managed to get in 6 sessions and worked through a variety of constraints ranging from not using condtionals and only using 4 lines of code, through to not using any return values.

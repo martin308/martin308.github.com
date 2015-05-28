@@ -2,8 +2,6 @@
 layout: post
 title: "Gimono Judogi Review"
 date: 2011-12-22 20:38
-comments: true
-tags: [judo, review]
 ---
 
 [Gimono](http://www.gimono.com) is a company from Dunedin creating martial arts uniforms out of
