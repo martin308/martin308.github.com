@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a developer from Wellington, New Zealand. Currently working at [Mindscape](http://www.mindscapehq.com) on an awesome new product for tracking errors in your application [Raygun.io](http://raygun.io). My main languages of choice are C# and JavaScript, although I love exposing my self to a wide range of languages.
+I am a software engineer living in Wellington, New Zealand. You can find me
+[on Twitter](https://twitter.com/martin308) and [on GitHub](https://github.com/martin308).
 
-Outside of work I love going Skiing and Snowboarding as much as I can, I also enjoy doing Judo, Taekwondo and weight training.
+I joined [Mindscape](http://www.mindscapehq.com) in 2013 and kicked off the development
+of [Raygun](https://raygun.io), an error tracking service for developers.
+
+Prior to that I worked at [Intergen](http://www.intergen.co.nz) for a few years after
+graduating from [Massey University](http://www.massey.ac.nz) with a Bachelor of Engineering.
