@@ -8,7 +8,7 @@ layout: default
     <p class="post-meta">
         posted on {{ page.date | date: "%b %-d, %Y" }}
         {% for tag in page.tags %}
-          <a class="post-category post-category-{{ tag }}" href="#">{{ tag }}</a>
+          <span class="post-category post-category-{{ tag }}">{{ tag }}</span>
         {% endfor %}
     </p>
   </header>
