@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer living in Wellington, New Zealand. You can find me
+I am a software engineer living in San Francisco. You can find me
 [on Twitter](https://twitter.com/martin308) and [on GitHub](https://github.com/martin308).
 
-I joined [Mindscape](http://www.mindscapehq.com) in 2013 and kicked off the development
-of [Raygun](https://raygun.io), an error tracking service for developers.
+I joined [Bugsnag](https://bugsnag.com) in 2015 to head up the backend team.
 
-Prior to that I worked at [Intergen](http://www.intergen.co.nz) for a few years after
-graduating from [Massey University](http://www.massey.ac.nz) with a Bachelor of Engineering.
+Prior to that I worked at [Mindscape](http://mindscapehq.com) and
+[Intergen](http://www.intergen.co.nz) after graduating from
+[Massey University](http://www.massey.ac.nz) with a Bachelor of Engineering.
