@@ -49,7 +49,7 @@ some build steps to generate all of the front end assets. We end up with this.
 -   "clean-css-brunch": ">= 1.0 < 1.8",
 -   "css-brunch": ">= 1.0 < 1.8",
 -   "javascript-brunch": ">= 1.0 < 1.8",
--   "uglify-js-brunch": ">= 1.0 < 1.8"
+-   "uglify-js-brunch": ">= 1.0 < 1.8",
 +   "babelify": "^6.3.0",
 +   "browserify": "^11.2.0",
 +   "catw": "^1.0.1",
