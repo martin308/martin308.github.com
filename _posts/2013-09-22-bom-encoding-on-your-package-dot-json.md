@@ -6,7 +6,7 @@ date: 2013-09-22 11:33
 
 If you are using [NPM](https://npmjs.org/) or [Grunt](http://gruntjs.com) on Windows and are having issues running your tasks it would pay to check the file encoding on your package.json file. I was receiving the following error while trying to run Grunt:
 
-{% highlight bash %}
+{% highlight batchfile %}
 "Warning: C:\dev\project\package.json : Unexpected token ? Use --force to continue."
 {% endhighlight %}
 

@@ -9,8 +9,6 @@ Over the weekend I attended a new conference up in Auckland organised by two ste
 It was exceptionally well organised, the speakers were awesome, the swag bag had some cool gear and
 the after party rocked long into the night.
 
-<!--more-->
-
 The day kicked off with an awesome keynote by [Phil Haack](http://twitter.com/#!/haacked) about
 work/life balance and doing what you love, followed by [Michael Koziarski](http://twitter.com/#!/nzkoz)
 talking about what its like to maintain an extremely large open source project. This was followed by a panel

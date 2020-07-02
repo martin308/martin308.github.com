@@ -6,8 +6,6 @@ date: 2013-02-03 16:44
 
 I have recently been using [Backbone.Marionette](http://marionettejs.com/) in anger while building [Raygun.io](http://raygun.io). I was struggling to find posts on how to use modules correctly. So of course I ended up using them poorly and have since discovered a better way to use them. I am going to show both the first way that I used Marionette and the new way that I have moved to after discovering the weaknesses in my first approach.
 
-<!--more-->
-
 I am going to assume that you have a fairly good idea about javascript, backbone and marionette. If you don't I recommend reading up on all of them beforehand!
 
 The intial approach I took was to use module initializers inside every module to add their layouts/views etc to the applications region. This is demonstrated below.
