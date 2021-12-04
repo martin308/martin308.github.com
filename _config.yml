@@ -39,6 +39,7 @@ plugins:
 google_analytics: UA-2950924-5
 
 feed:
+  excerpt_only: true
   path: atom.xml
 
 footer_links:
