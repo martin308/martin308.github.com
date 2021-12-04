@@ -23,8 +23,6 @@ title: Martin Holman
 email: me@martinholman.co.nz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://martinholman.co.nz" # the base hostname & protocol for your site
-twitter_username: martin308
-github_username:  martin308
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
@@ -46,6 +44,12 @@ footer_links:
   - title: GitHub
     url: https://github.com/martin308
     icon: fab fa-github-square
+  - title: Instagram
+    url: https://instagram.com/martin308
+    icon: fab fa-instagram
+  - title: LinkedIn
+    url: https://linkedin.com/in/martinholman
+    icon: fab fa-linkedin
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
