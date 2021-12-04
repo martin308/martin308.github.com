@@ -20,6 +20,7 @@
 
 locale: en-US
 title: Martin Holman
+author: Martin Holman
 email: me@martinholman.co.nz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://martinholman.co.nz" # the base hostname & protocol for your site
@@ -36,6 +37,9 @@ plugins:
   - jekyll-sitemap
 
 google_analytics: UA-2950924-5
+
+feed:
+  path: atom.xml
 
 footer_links:
   - title: Twitter
